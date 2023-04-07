@@ -1,0 +1,19 @@
+.place__website-caption {
+    margin:0;
+    margin: 0;
+    padding-bottom: 12px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    letter-spacing: 2px;
+    color: #AAAAAA;
+    text-align: left;
+
+}
+
+@media screen and (max-width: 767px) {
+    .place__website-caption {
+        padding-top: 32px;
+    }
+}

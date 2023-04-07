@@ -1,0 +1,19 @@
+.footer {
+    box-sizing: border-box;
+    width: 100%;
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 92px;
+    padding-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    outline: 1px solid gray;
+}
+@media screen and (max-width: 1023px) {
+    .footer {
+    padding-left: 24px;
+    padding-right: 24px;
+    }
+}
