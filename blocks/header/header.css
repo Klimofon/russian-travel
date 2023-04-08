@@ -1,9 +1,14 @@
 .header {
+    padding-top: 28px;
     width: 100%;
-    outline: 1px solid red;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
     box-sizing: border-box;
+}
+
+@media screen and (max-width:767px) {
+    .header {padding-top: 16px;
+    }
 }

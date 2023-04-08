@@ -1,5 +1,5 @@
 .place {
-    outline: 1px solid gray;
+    
     padding-top: 92px;
     display: grid;
     grid-template-columns: 1fr 1fr;
