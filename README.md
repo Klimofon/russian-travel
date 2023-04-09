@@ -16,7 +16,7 @@
 
 ### Доступ к проекту
 
-* Ссылка на проект в GitHub: https://github.com/Klimofon/russian-travel
+* Ссылка на проект в GitHub: https://klimofon.github.io/russian-travel/
 
 ### Верстка выполнена 
 

@@ -1,14 +1,4 @@
 .place__image {
 width: 100%;
 height: auto;
-padding-top: 48px;
-padding-bottom: 80px;
-}
-
-@media screen and (max-width: 767px) {
-    .place__image {
-        padding-top: 32px;
-        padding-bottom: 32px;
-        }
-        
 }

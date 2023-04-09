@@ -20,7 +20,6 @@
 
 @media screen and (max-width: 1023px) {
     .intro__title {
-        width: 720px;
         padding-left: 24px;
         padding-right: 24px;
         
@@ -32,7 +31,6 @@
         width: calc(100% - 18px - 18px);
         padding-left: 16px;
         padding-right: 16px;
-        text-align: left;
         font-size: 32px;
         line-height: 35px;
     }
