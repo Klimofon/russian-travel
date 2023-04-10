@@ -1,4 +1,9 @@
+.cursor {
+    transition: .7s;
+}
 .cursor:hover {
     cursor: url("../../images/cursor/cursor__pointer.png"), pointer;
-    opacity: 0.8;
+    opacity: .8;
+    transition: .7s;
 }
+

@@ -8,6 +8,7 @@
     justify-content: flex-start;
     box-sizing: border-box;
 }
+
 @media screen and (max-width: 767px) {
     .footer__nav-links {
         flex-direction: column;
