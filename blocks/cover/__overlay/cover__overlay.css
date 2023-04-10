@@ -13,4 +13,5 @@
 .cover__overlay:hover {
     background: rgba(42, 44, 43, .7);
     transition: .5s;
+    cursor: url("../../../images/cursor/cursor__pointer.png"), pointer;
 }
