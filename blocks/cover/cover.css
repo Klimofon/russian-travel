@@ -6,11 +6,11 @@
     background: url("../../images/cover__background.jpg");
     background-clip: content-box;
     background-size: cover;
+    background-position: center center;
 }
 
 @media screen and (max-width: 1279px) {
     .cover {
-        margin: 0;
         padding: 0;
     }
 }
